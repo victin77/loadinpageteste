@@ -1,0 +1,56 @@
+<section class="py-12 bg-white border-y border-slate-100 overflow-hidden">
+            <div class="mb-8 text-center">
+                <p class="text-sm font-bold tracking-widest text-slate-500 uppercase">Galeria de Sucesso</p>
+                <h3 class="text-3xl font-display font-bold text-primary-900">CONTEMPLADOS DA SEMANA</h3>
+            </div>
+            <div class="relative w-full overflow-hidden group">
+                <div class="flex gap-6 animate-marquee w-[200%] hover:pause">
+                    <!-- Set 1 of images -->
+                    <div class="flex gap-6 shrink-0">
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1605218427368-35b81a3dd616?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Caminhão">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Scania R450 - Sr. João</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Casa">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Casa Própria - Maria S.</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Agro">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Colheitadeira - Fazenda Boa Vista</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Carro">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Corolla Cross - Pedro A.</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1581094794329-cd56b54a6150?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Serviços">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Reforma de Clínica - Dra. Ana</div>
+                        </div>
+                    </div>
+                    <!-- Set 2 of images (Duplicate for loop) -->
+                    <div class="flex gap-6 shrink-0">
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1605218427368-35b81a3dd616?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Caminhão">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Scania R450 - Sr. João</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Casa">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Casa Própria - Maria S.</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Agro">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Colheitadeira - Fazenda Boa Vista</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Carro">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Corolla Cross - Pedro A.</div>
+                        </div>
+                        <div class="w-80 h-56 rounded-xl overflow-hidden shadow-md relative">
+                            <img src="https://images.unsplash.com/photo-1581094794329-cd56b54a6150?q=80&amp;w=800&amp;auto=format&amp;fit=crop" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500" alt="Contemplado Serviços">
+                            <div class="absolute bottom-0 inset-x-0 p-4 bg-gradient-to-t from-black/80 to-transparent text-white font-bold">Reforma de Clínica - Dra. Ana</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
